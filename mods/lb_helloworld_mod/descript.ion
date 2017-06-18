@@ -1,0 +1,7 @@
+﻿id=lb_helloworld_mod
+version=1.0
+
+[ru]
+title=Тестовый сценарий
+description=Короткий hello-world скрипт.
+credits=lb

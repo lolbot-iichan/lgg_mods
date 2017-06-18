@@ -1,0 +1,7 @@
+﻿id=lb_codeline_widget_mod
+version=1.0
+
+[ru]
+title=Отображение строчки кода
+description=Классический hello-world виджет.
+credits=lb
